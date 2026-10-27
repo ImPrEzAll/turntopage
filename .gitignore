@@ -1,0 +1,19 @@
+# 构建产物
+build/
+*/build/
+.gradle/
+.kotlin/
+captures/
+
+# 本地工具与下载（Gradle 发行版、GitHub CLI、登录配置）
+.tools/
+
+# 本机 SDK 路径
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# 安装包只作为 GitHub Release 附件发布，不进入版本库
+*.apk

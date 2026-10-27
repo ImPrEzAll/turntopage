@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Turntopage</string>
+    <string name="service_summary">眼动与空中手势翻页</string>
+    <string name="service_desc">Turntopage 在任意小说应用中提供音量键、边缘热区、悬浮球、眼动和空中手势翻页。识别只在本机进行。</string>
+</resources>
