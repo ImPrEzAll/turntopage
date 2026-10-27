@@ -2,7 +2,7 @@
 
 把翻页交给视线和手势。不需要改任何小说 App：无障碍服务向前台应用注入真实的滑动/点击，支持**空中手势**（张手左右挥、拇指食指捏合）、**眼动**、音量键、屏幕边缘热区和悬浮球。
 
-安装包：[turntopage-1.4.apk](turntopage-1.4.apk)
+安装包：[GitHub Releases](https://github.com/ImPrEzAll/turntopage/releases/latest)（当前 v1.4，APK 挂在 Release 附件里）
 
 已在小米 MIX 2S（LineageOS / Android 16，1080×2160）上实测前摄、MediaPipe、无障碍注入、模式切换、新界面与横屏旋转；平板横屏布局用 1280×800dp 逻辑分辨率（sw800dp）实机验证。
 
